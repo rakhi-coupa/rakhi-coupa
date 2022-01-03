@@ -2,7 +2,7 @@
 - 👀 I’m working as a Senior Software Engineer at Coupa
 - 🌱 I’m currently learning Ruby on Rails and Redux
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rakhi.pal@coupa.com
+- 📫 You can reach me at rakhi.pal@coupa.com
 
 <!---
 rakhi-coupa/rakhi-coupa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
