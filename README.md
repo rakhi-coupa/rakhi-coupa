@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakhi Pal (@rakhi-coupa)
 - 👀 I’m working as a Senior Software Engineer at Coupa
 - 🌱 I’m currently learning Ruby on Rails and Redux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on intresting challenges
 - 📫 You can reach me at rakhi.pal@coupa.com
 
 
