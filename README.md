@@ -5,6 +5,8 @@
 - 📫 You can reach me at rakhi.pal@coupa.com
 
 
+[![Rakhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhi-pal)](https://github.com/rakhi-pal/github-readme-stats&show_icons=true&theme=tokyonight&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhi-coupa)](https://github.com/rakhi-coupa/github-readme-stats&count_private=true)
 <!---
 rakhi-coupa/rakhi-coupa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
